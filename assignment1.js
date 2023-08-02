@@ -32,3 +32,7 @@ console.log("\n");
 //Take two numbers and print the division result.
 var divid = num6 / num1;
 console.log("division of two numbers is: ", divid);
+console.log("\n");
+//Performing all operations
+var allOp = num1 * num2 + num3 - num4 / num5;
+console.log("Answer of all operations is: ", allOp);
